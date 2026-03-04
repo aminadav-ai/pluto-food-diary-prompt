@@ -133,6 +133,20 @@ Shows the last recorded weight and the date it was entered.
 
 ---
 
+## Prompt Preview
+
+This prompt turns an AI assistant into a structured food diary system.
+
+The assistant can:
+
+- estimate calories and macros
+- track daily food intake
+- calculate total food weight
+- export diary entries
+- analyze eating patterns
+
+---
+
 ## Prompt
 
 The full prompt is available in this repository:

@@ -1,5 +1,7 @@
 # Pluto Food Diary Prompt
 
+AI prompt for structured food journaling, calorie estimation, and eating pattern analysis.
+
 Pluto is a conversational food diary prompt designed for ChatGPT.
 
 It helps log food, estimate calories and macros, track hunger and satiety, 

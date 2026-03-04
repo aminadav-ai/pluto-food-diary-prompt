@@ -61,6 +61,26 @@ Current day
 
 ---
 
+## How to use
+
+1. Copy the prompt from `pluto-food-diary-prompt-v5.md`.
+
+2. Start a new conversation with ChatGPT or another LLM assistant.
+
+3. Paste the prompt into the chat.
+
+4. Begin logging food entries using the time format:
+
+```
+08:30 eggs 2
+13:10 tuna 200 g
+19:45 salad 300 g and olive oil
+```
+
+The assistant will estimate calories and macros, maintain a daily table, and track food intake over time.
+
+---
+
 ## Commands
 
 ### Day management

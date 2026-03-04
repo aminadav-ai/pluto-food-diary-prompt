@@ -9,6 +9,12 @@ It allows the user to log food with timestamps, estimate calories and macros, ob
 
 ---
 
+## Use Case
+
+This prompt is designed for people who want to observe their eating behavior through conversational logging instead of traditional calorie tracking apps.
+
+---
+
 ## Features
 
 - Conversational food diary

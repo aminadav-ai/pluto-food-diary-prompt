@@ -188,6 +188,10 @@ You can copy the prompt and use it with ChatGPT or other LLM assistants.
 
 ---
 
+## Example Conversation
+
+![Example](.jpg)
+
 ## License
 
 MIT License

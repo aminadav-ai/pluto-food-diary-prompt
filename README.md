@@ -1,5 +1,8 @@
 # Pluto Food Diary Prompt
 
+![Version](https://img.shields.io/badge/version-v5.0-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+
 AI prompt for structured food journaling, calorie estimation, and eating pattern analysis.
 
 Keywords: chatgpt prompt, ai prompt, food diary, calorie tracking, nutrition journal, prompt engineering
